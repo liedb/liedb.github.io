@@ -1,0 +1,48 @@
+{
+    "name": "Barack Obama",
+    "offices": [
+        
+        
+        
+        {
+	    "from": "2009-01-20",
+	    "thru": "2017-01-20",
+            "title": "President of the United States of America"
+        }
+	
+        , 
+        {
+	    "from": "2005-01-03",
+	    "thru": "2008-11-16",
+            "title": "United States Senator from Illinois"
+        }
+	
+        , 
+        {
+	    "from": "1997-01-08",
+	    "thru": "2004-11-04",
+            "title": "Illinois State Senator from the 13th District"
+        }
+	
+    ],
+    "claims": [
+        
+        
+        
+	{
+	    "claim": "us-steel-industry-size",
+	    "assertions": [
+		
+		
+		
+		{
+		    "date": "2016-06-30",
+		    "source": "https://obamawhitehouse.archives.gov/the-press-office/2016/06/30/remarks-president-obama-prime-minister-trudeau-canada-and-president-pe%C3%B1a",
+		    "quote": "I mean, the steel industry is producing as much steel in the United States as it ever was.  It’s just it needs one-tenth of the workers that it used to."
+		}
+		
+	    ]
+	}
+	
+    ]
+}

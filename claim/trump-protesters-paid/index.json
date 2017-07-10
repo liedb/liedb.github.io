@@ -1,0 +1,31 @@
+
+{
+    "summary": "There is no evidence of paid protesters.",
+    "checks": [
+	
+        
+        
+        {
+            "short": "There is no evidence of paid protesters.", 
+            
+            "url": "https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html", 
+            
+                
+                    "name": "The New York Times"
+                
+            
+        }
+    
+    ],
+    "title": "Trump Protesters Were Paid",
+    "claimants": [
+    
+    
+    
+    
+    
+    "donald-trump"
+    
+    
+    ]
+}

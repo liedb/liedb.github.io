@@ -1,0 +1,31 @@
+
+{
+    "summary": "Only its union did.",
+    "checks": [
+	
+        
+        
+        {
+            "short": "Only its union did.", 
+            
+            "url": "https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html", 
+            
+                
+                    "name": "The New York Times"
+                
+            
+        }
+    
+    ],
+    "title": "I.C.E. Endorsed Trump",
+    "claimants": [
+    
+    
+    
+    
+    
+    "donald-trump"
+    
+    
+    ]
+}

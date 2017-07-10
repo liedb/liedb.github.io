@@ -1,0 +1,31 @@
+
+{
+    "summary": "There were no gun homicide victims in Chicago that day.",
+    "checks": [
+	
+        
+        
+        {
+            "short": "There were no gun homicide victims in Chicago that day.", 
+            
+            "url": "https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html", 
+            
+                
+                    "name": "The New York Times"
+                
+            
+        }
+    
+    ],
+    "title": "Two People Were Killed During an Obama Speech",
+    "claimants": [
+    
+    
+    
+    
+    
+    "donald-trump"
+    
+    
+    ]
+}

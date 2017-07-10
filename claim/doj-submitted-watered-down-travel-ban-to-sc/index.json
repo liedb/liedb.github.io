@@ -1,0 +1,29 @@
+
+{
+    "summary": "Trump signed this version of the travel ban, not the Justice Department.",
+    "checks": [
+	
+        
+        
+        {
+            "short": "Trump signed this version of the travel ban, not the Justice Department.", 
+            
+            "url": "https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html", 
+            
+                "name": "New York Times"
+            
+        }
+    
+    ],
+    "title": "DoJ Submitted Watered Down Version of Travel Ban To Supreme Court",
+    "claimants": [
+    
+    
+    
+    
+    
+    "donald-trump"
+    
+    
+    ]
+}
